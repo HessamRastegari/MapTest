@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Map</string>
+    <string name="navigate">navigate</string>
+    <string name="map_view_for_displaying_location">Map view for displaying location</string>
+    <string name="caption_first_location">Please select your first location</string>
+    <string name="caption_here_is_your_route">Here is your route</string>
+    <string name="caption_please_select_your_destination">Please select your destination</string>
+    <string name="caption_please_wait">Please wait</string>
+    <string name="caption_enjoy_your_ride">Enjoy your ride</string>
+</resources>
